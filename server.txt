@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "math": {
+      "command": "mcp",
+      "args": [
+        "run",
+        "C:\\Users\\JunjieLi\\altech\\mini-MCP"
+      ]
+    }
+  }
+}
